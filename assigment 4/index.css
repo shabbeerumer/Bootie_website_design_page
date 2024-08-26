@@ -1,0 +1,154 @@
+.a {
+    background-image: url('images/banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.b {
+    padding-top: 16%;
+    padding-left: 2%;
+    padding-bottom: 17%;
+    color: white;
+}
+
+/* i{
+    color: red;
+} */
+
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.div {
+    text-align: center;
+    color: #6a6c6d;
+}
+
+.div_two {
+    color: #ff4c4c;
+}
+
+.section1 {
+    background-image: url(images/img1.jpg);
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.section2 {
+    background-image: url(images/img2.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.section3 {
+    background-image: url(images/img3.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.section3 h2 {
+    padding-top: 30vh;
+    padding-right: 10%;
+    text-align: end;
+}
+
+.section2 h2 {
+    padding-top: 30vh;
+    padding-right: 10%;
+    text-align: end;
+}
+
+.section1 h2 {
+    padding-top: 80vh;
+    padding-right: 10%;
+    text-align: end;
+}
+
+.footer_icons {
+    font-size: xx-large;
+}
+
+.facebook {
+    color: #3b5998;
+}
+
+.twitter {
+    color: #1da1f2;
+}
+
+.dribble {
+    color: #ea4c89;
+
+}
+
+.google_plus {
+    color: #F44336;
+}
+
+
+.footer_form {
+    width: 80%;
+    letter-spacing: 1px;
+    background-color: #efeeee;
+    border: none;
+    padding-top: 1%;
+    /* padding-right: 5%; */
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+
+
+.last_section_one_a a {
+    color: #727377;
+    padding-bottom: 2%;
+    text-decoration: none;
+    display: block;
+}
+
+/* .last_section_two {
+   margin-left: 5%;
+} */
+
+.last_section_two_a a {
+    color: #727377;
+    padding-bottom: 2%;
+    text-decoration: none;
+    display: block;
+}
+
+/* .last_section_three{
+    margin-left: 5%;
+} */
+
+.last_section_three_a p,
+a {
+    color: #727377;
+    text-decoration: none;
+
+}
+
+.lasta {
+    text-align: center;
+}
+
+
+.navbar-toggler-icon
+{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%283, 152, 158, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='4' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+
+
+/* .nav-link{
+    color: white;
+}  */
