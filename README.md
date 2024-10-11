@@ -8,7 +8,6 @@
 
 ## **Features**
 - **Fully Responsive Layout**: Optimized for desktop, tablet, and mobile devices.
-- **Shoe Showcase**: Designed to highlight various shoe collections with stylish layouts and animations.
 - **Bootstrap Framework**: Uses the latest Bootstrap version to ensure responsive and flexible layouts.
 - **Modern UI**: Clean and minimalist design, making it user-friendly and visually appealing.
 
